@@ -3,10 +3,11 @@
     {
       "kind": "git",
       "repository": "https://github.com/azure-sdk/vcpkg-betas",
-      "baseline": "5e5888f17695f9ddaf89c541ca78cfb12840231d",
+      "baseline": "e7fa1156eaa4c7f2f92c40c61322fe23d00dc178",
       "packages": [
         "azure-core-cpp",
         "azure-identity-cpp",
+        "azure-security-keyvault-certificates-cpp",
         "azure-security-keyvault-keys-cpp",
         "azure-security-keyvault-secrets-cpp",
         "azure-storage-blobs-cpp",
