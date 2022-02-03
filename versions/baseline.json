@@ -1,7 +1,7 @@
 {
   "default": {
     "azure-core-cpp": {
-      "baseline": "1.2.0",
+      "baseline": "1.2.1",
       "port-version": 0
     },
     "azure-identity-cpp": {
@@ -9,23 +9,31 @@
       "port-version": 0
     },
     "azure-security-keyvault-keys-cpp": {
-      "baseline": "4.0.0",
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
+    "azure-security-keyvault-secrets-cpp": {
+      "baseline": "4.0.0-beta.1",
       "port-version": 0
     },
     "azure-storage-blobs-cpp": {
-      "baseline": "12.1.0",
+      "baseline": "12.2.0",
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.1.0",
+      "baseline": "12.2.0",
       "port-version": 0
     },
     "azure-storage-files-datalake-cpp": {
-      "baseline": "12.1.0",
+      "baseline": "12.2.0",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp": {
-      "baseline": "12.1.0",
+      "baseline": "12.2.0",
+      "port-version": 0
+    },
+    "azure-storage-queues-cpp": {
+      "baseline": "12.0.0-beta.1",
       "port-version": 0
     }
   }

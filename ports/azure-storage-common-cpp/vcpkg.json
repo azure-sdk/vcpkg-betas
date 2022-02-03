@@ -1,6 +1,6 @@
 {
   "name": "azure-storage-common-cpp",
-  "version-semver": "12.1.0",
+  "version-semver": "12.2.0",
   "description": [
     "Microsoft Azure Common Storage SDK for C++",
     "This library provides common Azure Storage-related abstractions for Azure SDK."
@@ -11,9 +11,12 @@
     {
       "name": "azure-core-cpp",
       "default-features": false,
-      "version>=": "1.2.0"
+      "version>=": "1.2.1"
     },
-    "libxml2",
+    {
+      "name": "libxml2",
+      "platform": "!windows"
+    },
     {
       "name": "openssl",
       "platform": "!windows"
