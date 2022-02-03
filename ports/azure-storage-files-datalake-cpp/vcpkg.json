@@ -1,6 +1,6 @@
 {
   "name": "azure-storage-files-datalake-cpp",
-  "version-semver": "12.0.0-beta.9",
+  "version-semver": "12.0.0-beta.10",
   "description": [
     "Microsoft Azure Storage Files Data Lake SDK for C++",
     "This library provides Azure Storage Files Data Lake SDK."
@@ -11,7 +11,7 @@
     {
       "name": "azure-storage-blobs-cpp",
       "default-features": false,
-      "version>=": "12.0.0-beta.9"
+      "version>=": "12.0.0-beta.10"
     },
     {
       "name": "vcpkg-cmake",
