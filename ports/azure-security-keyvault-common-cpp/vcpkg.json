@@ -1,6 +1,6 @@
 {
   "name": "azure-security-keyvault-common-cpp",
-  "version-semver": "4.0.0-beta.2",
+  "version-semver": "4.0.0-beta.3",
   "description": [
     "Microsoft Azure Common Key Vault SDK for C++",
     "This library provides common Azure KeyVault-related abstractions for Azure SDK."
@@ -11,7 +11,7 @@
     {
       "name": "azure-core-cpp",
       "default-features": false,
-      "version>=": "1.0.0-beta.9"
+      "version>=": "1.0.0"
     },
     {
       "name": "vcpkg-cmake",
