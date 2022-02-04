@@ -1,5 +1,5 @@
 # Azure SDK Beta Vcpkg Registry
-This repo contains vcpkg registry for all Azure SDK releases - both GAs and betas (unlike the [official vcpkg registry](https://github.com/microsoft/vcpkg), where only pre-GA and GA versions are being published, while post-GA betas are omitted to avoid having breaking changes).
+This repo contains vcpkg registry for all Azure SDK releases - both stable releases and betas (unlike the [official vcpkg registry](https://github.com/microsoft/vcpkg), where only pre-stable beta and stable versions are being published, while post-first-stable betas are omitted to avoid having breaking changes).
 
 ## Usage
 0. These instructions assume you know how to [get Azure SDK from the official vcpkg repo](https://github.com/Azure/azure-sdk-for-cpp#download--install-the-sdk). This document only documents the differences.
