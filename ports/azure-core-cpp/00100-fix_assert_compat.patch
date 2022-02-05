@@ -1,0 +1,12 @@
+diff --git a/sdk/core/azure-core/inc/azure/core/cryptography/hash.hpp b/sdk/core/azure-core/inc/azure/core/cryptography/hash.hpp
+index e3f61e72..45595f63 100644
+--- a/sdk/core/azure-core/inc/azure/core/cryptography/hash.hpp
++++ b/sdk/core/azure-core/inc/azure/core/cryptography/hash.hpp
+@@ -9,6 +9,7 @@
+ 
+ #pragma once
+ 
++#include "azure/core/azure_assert.hpp"
+ #include "azure/core/internal/azure_assert.hpp"
+ 
+ #include <memory>
